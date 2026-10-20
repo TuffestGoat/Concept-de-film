@@ -31,7 +31,6 @@ Projet conçu en équipe avec : Adam, Handjy
 - L'éclairage : sombre, élluminé
 - Le rythme du montage : ...
 - Un moodboard (3 à 5 images de référence) :
-![Moodboard](moodboard.jpg)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ebb90287-e0b6-42d7-843b-760990d9ab52" />
 <img width="1668" height="2388" alt="image" src="https://github.com/user-attachments/assets/1530c66d-f48b-4283-93c6-8da0b3e3b6d8" />
 <img width="768" height="432" alt="image" src="https://github.com/user-attachments/assets/1597374d-6a3e-4461-81a2-3428dabe81c3" />
