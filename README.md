@@ -1,38 +1,37 @@
-# »La légende du plus gros oiseaux
-
-Projet conçu en équipe avec : Adam, Handjy
+# Adams Family Values Mansion
+ 
+Projet conçu en équipe avec : Lea, Naomi
+ 
 ## Le concept et l'audience
-
-- Une phrase (logline) : ...
+ 
+- Une phrase (logline) : Un manoir vivant habitant la famille Adams, faisant en sorte que toute les membres restent réunies. 
 - Le public cible : 18+
-- La franchise d'origine : ...
-
+- La franchise d'origine : Adams Family Values
+ 
 ## L'intrigue
-
-- Le début : il vie tranquillement au village
-- Le milieu :il se bat avec le robot oiseau
-- Le revirement (plot twist) : il se sacrifi
-- La fin : on respect sa mort
-
+ 
+- Le début : Morticia à eu un nouveau bébé nommer Pubert, le manoir accueillie Pubert en décorant sa chambre de façon approprié en vue de la famille. De façon gothique, sombre et dangereux.
+- Le milieu : La séparation de oncle Fester et les autres membres de la famille trouble Pubert et le manoir, ce qui crée un changement physique dans la chambre de Pubert. Le manoir a changé la chambre de Pubert en une ambiance plus clair, harmonisé et joyeux, ce qui le trouble.  La ex-femme de oncle Fester essaye de tuer les Adams.
+- Le revirement (plot twist) : Le manoir averti Pubert pour qu'il sauvent a famille. Pour l'aider, le manoir fait tomber des planches de bois et des objets pour guider et éventuellement amener Pubert vers sa famille qui est emprisonner. La femme meurt en se faisant électrocuter.
+- La fin : La famille est sain et sauf et le manoir revient en son état normal, content que tout est redevenu normal.
+ 
 ## Le personnage principal
-
-- Description (physique et psychologique) : Revali, oiseau-homme, fière, persistant, persévérant
-- Son désir (ce qu'il veut) : protégé son village
-- Son besoin (ce qu'il lui faut) : battra le robot oiseau
-- Son évolution : il se sacrifi pour le village et accepte sa défaite
-
+ 
+- Description (physique et psychologique) : Un manoir victorien fait avec de vieilles briques blancs et l'intérieur fait avec des planches de bois sombres. Le manoir est protective, soigné et prévenant.
+- Son désir (ce qu'il veut) : Garder les Adams en harmonie et en sûreter.
+- Son besoin (ce qu'il lui faut) : Qu'il ne soit pas abandonné et reste équilibré.
+- Son évolution : Il reste plus prudent avec qui il laisse rentrer dans son territoire.
+ 
 ## L'univers
-
-- Où et quand se passe l'histoire : Zelda breath of the wild
-- Un élément de folklore qui rend l'univers vivant : Des bêtes divines
+ 
+- Où et quand se passe l'histoire : En 1993 dans un cimetière en New Jearsey.
+- Un élément de folklore qui rend l'univers vivant : Les Adams ont des traits surnaturels, ils peuvent survivent des accidents impossible pour des humains normals.
+ 
 ## La direction cinématographique
-
-- La palette de couleurs : toutes les couleurs, nature, 
-- L'éclairage : sombre, élluminé
-- Le rythme du montage : ...
-- Un moodboard (3 à 5 images de référence) :
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ebb90287-e0b6-42d7-843b-760990d9ab52" />
-<img width="1668" height="2388" alt="image" src="https://github.com/user-attachments/assets/1530c66d-f48b-4283-93c6-8da0b3e3b6d8" />
-<img width="768" height="432" alt="image" src="https://github.com/user-attachments/assets/1597374d-6a3e-4461-81a2-3428dabe81c3" />
-<img width="451" height="392" alt="image" src="https://github.com/user-attachments/assets/7295bb5b-3b19-4353-901b-4f3d6f7afcf8" />
-<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/51613f5e-b096-4f4a-82d2-8ef0db68d5a9" />
+ 
+- La palette de couleurs : Noir, blanc, gris, mauve
+- L'éclairage : sombre,
+- Le rythme du montage : Rapide et cohérant
+- Un moodboard (3 à 5 images de référence) : https://ca.pinterest.com/pin/798403840265536198/
+ 
+![Moodboard]([moodboard.jpg)
